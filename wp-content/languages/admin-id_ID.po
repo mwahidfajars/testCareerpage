@@ -2,12 +2,12 @@
 # This file is distributed under the same license as the WordPress - 5.4.x - Development - Administration package.
 msgid ""
 msgstr ""
-"PO-Revision-Date: 2020-05-29 21:40:48+0000\n"
+"PO-Revision-Date: 2020-07-03 03:44:04+0000\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=n > 1;\n"
-"X-Generator: GlotPress/3.0.0-alpha\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
 "Language: id\n"
 "Project-Id-Version: WordPress - 5.4.x - Development - Administration\n"
 
@@ -33,15 +33,15 @@ msgstr "Blok Lebar"
 
 #: wp-admin/includes/theme.php:281
 msgid "Block Editor Styles"
-msgstr "Gaya Blok Editor"
+msgstr "Style Penyunting Blok"
 
 #: wp-admin/about.php:163
 msgid "See progress as you process export and erasure requests through the privacy tools."
-msgstr "Lihat progres saat Anda memproses permintaan ekspor dan penghapusan melalui alat privasi."
+msgstr "Tampilkan progress saat Anda mengekspor dan meminta penghapusan melalui peralatan privasi."
 
 #: wp-admin/about.php:162
 msgid "Now personal data exports include users session information and users location data from the community events widget. Plus, a table of contents!"
-msgstr "Sekarang ekspor data pribadi termasuk informasi sesi pengguna dan data lokasi pengguna dari widget kegiatan komunitas. Dan, daftar isi!"
+msgstr "Sekarang ekspor data pribadi mengandung informasi sesi dan data lokasi pengguna dari widget kegiatan komunitas. Terdapat pula sebuah daftar isi!"
 
 #: wp-admin/includes/privacy-tools.php:491
 msgid "Unable to add data to JSON file."
